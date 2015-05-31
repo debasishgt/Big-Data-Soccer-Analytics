@@ -1,0 +1,75 @@
+<html>
+<head>
+    <title>A Data Driven Map</title>
+    <script type="text/javascript" src="http://www.fusioncharts.com/dev/assets/fusioncharts/fusioncharts.js"></script>
+    <script type="text/javascript" src="http://www.fusioncharts.com/dev/assets/fusioncharts/themes/fusioncharts.theme.fint.js"></script>
+	
+</head>
+<script>
+FusionCharts.ready(function() {
+    var populationMap = new FusionCharts({
+        type: 'maps/world',
+        renderAt: 'chart-container',
+        width: '900',
+        height: '650',
+        dataFormat: 'json',
+        dataSource: {
+            "chart": {
+                "caption": "Global Tweets",
+                "theme": "fint",
+                "formatNumberScale": "0",
+            },
+            "colorrange": {
+                "color": [{
+                   "minvalue": "2000",
+                   "maxvalue": "100000",
+                   "code": "#FF0000",
+                   "displayValue": "Above 2000"
+               }, {
+                   "minvalue": "1500",
+                   "maxvalue": "2000",
+                   "code": "#CC99FF",
+                   "displayValue": "1500-2000"
+               }, {
+                   "minvalue": "1000",
+                   "maxvalue": "1500",
+                   "code": "#99CCFF",
+                   "displayValue": "1000-1500"
+               }, {
+                   "minvalue": "0",
+                   "maxvalue": "500",
+                   "code": "#FFFF99",
+                   "displayValue": "Below 1000"
+               }]
+            },
+            "data": [{
+                "id": "NA",
+                "value": "2069"
+            }, {
+                "id": "SA",
+                "value": "1169"
+            }, {
+                "id": "AS",
+                "value": "205"
+            }, {
+                "id": "EU",
+                "value": "1846"
+            }, {
+                "id": "AF",
+                "value": "136"
+            }, {
+                "id": "AU",
+                "value": "0"
+            }]
+        }
+    }).render();
+});
+</script>
+
+<body>
+<center>
+<div id="chart-container">A world map will load here!</div>
+</center>
+</body>
+
+</html>

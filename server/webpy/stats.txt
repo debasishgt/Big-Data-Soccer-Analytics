@@ -1,0 +1,22 @@
+[u'Burundi', u'Gibraltar', u'\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd', u'Vi\u1ec7t Nam', u'Afghanistan', u'Cambodia', u'Syria', u'Bolivia', u'R\xe9publique du Rwanda', u'Paraguay', u'Iraq', u'Zambia', u'Hrvatska', u'Dominican Republic', u'Zimbabwe', u'Senegal', u'\xcdsland', u'R\xe9publique D\xe9mocratique Du Congo', u'Jamaica', u'Hellas', u'Guyana', u'Danmark', u'Costa Rica', u'Algeria', u'Slovenija', u'Schweiz', u'Nederland', u'Peru', u'Rom\xe2nia', u'Deutschland', u'Cyprus', u'Polska', u"C\xf4te d'Ivoire", u'Latvija', u'Botswana', u'\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a', u'United Kingdom', u'Cameroon', u'Royaume du Maroc', u'\u9999\u6e2f', u'\ub300\ud55c\ubbfc\uad6d', u'El Salvador', u'Sverige', u'Ecuador', u'Nicaragua', u'Suomi', u'\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629', u'South Africa', u'Bahrain', u'Nigeria', u'Bulgaria', u'India', u'Monaco', u'\u53f0\u7063', u'Ghana', u'Belgi\xeb', u'\u010cesk\xe1 republika', u'T\xfcrkiye', u'Singapore', u'Cuba', u'Guatemala', u'Tanzania', u'\u062f\u0648\u0644\u0629 \u0642\u0637\u0631', u'Nepal', u'United States', u'Portugal', u'\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646', u'Rossiya', u'Georgia', u'Sri Lanka', u'Malawi', u'Puerto Rico', u'Martinique', u'\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22', u'Malaysia', u'Italia', u'Magyarorsz\xe1g', u'Trinidad and Tobago', u'Guadeloupe', u'Kenya', u'\u65e5\u672c', u'France', u'Ukraina', u'Honduras', u'Chile', u'\u067e\u0627\u06a9\u0633\u062a\u0627\u0646', u'\xd6sterreich', u'Australia', u'\u0644\u0628\u0646\u0627\u0646', u'Barbados', u'Venezuela', u'Ireland', u'Republika ng Pilipinas', u'Burkina Faso', u'Colombia', u'Espa\xf1a', u'Republic of Mozambique', u'Kosovo', u'Indonesia', u'\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629', u'Canada', u'\u0645\u0635\u0631', u'Bangladesh', u'M\xe9xico', u'Libya', u'\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629', u'\u05d9\u05e9\u05e8\u05d0\u05dc', u'Uruguay', u'New Zealand', u'Uganda', u'Argentina', u"Belarus'", u'Norge', u'Azerbaijan', u'Panama', u'Brasil', u'Cura\xe7ao'] 
+*****------------TOTAL RECORDS------------****** 
+ 355412 
+ *****-------------------------------------****** 
+ *****------------LOCATION ACTIVE------------****** 
+ 7580 
+ *****---------------------------------------****** 
+  *****-----------------------------------Array-------------------------------------------****** 
+ [1, 1, 2, 1, 2, 1, 1, 10, 1, 21, 1, 2, 4, 5, 8, 1, 2, 1, 4, 7, 1, 17, 21, 20, 1, 68, 159, 32, 3, 135, 1, 16, 5, 4, 3, 3, 1184, 8, 14, 6, 3, 9, 35, 110, 9, 8, 34, 136, 4, 38, 11, 42, 1, 1, 13, 33, 6, 54, 55, 5, 22, 1, 12, 8, 2069, 69, 1, 12, 1, 1, 1, 5, 4, 45, 91, 102, 1, 12, 2, 15, 32, 367, 4, 17, 139, 9, 12, 68, 6, 15, 79, 59, 11, 1, 121, 136, 2, 3, 205, 17, 133, 19, 1, 119, 1, 26, 12, 102, 17, 5, 424, 2, 29, 1, 23, 504, 1] 
+*****------------------------------------------------------------------------------------****** 
+ *****------------MEAN------------****** 
+ 64.7863247863 
+ *****----------------------------****** 
+ *****-----------MEDIAN-----------****** 
+ 9 
+ *****----------------------------****** 
+ *****------------MODE------------****** 
+ 1 *****----------------------------****** 
+ *****-----STANDARD DEVIATION-----****** 
+ 227.178939566 
+ *****----------------------------****** 
+*****----------------------------****** 

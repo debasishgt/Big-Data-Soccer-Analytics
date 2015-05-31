@@ -1,0 +1,3 @@
+twitter_consumer_key='d8iL5X7d8ioERyrQDeBRrSmgJ' 
+twitter_consumer_secret='7zSzX11yuvNASuOB5HcqEAVSA1wsEf5LmsbnFz2x0eyWrUlxyu'
+alchemy_apikey='b7a14ecef99d6d245b00f3001902d6b4367accfd'
