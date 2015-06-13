@@ -8,25 +8,25 @@ CS594-BigData-Project
 Welcome to the Soccer Data Analysis recipe!
 
 **Brief Description:**
-Data Acquisition:
-- Connect to Twitter API
-- Fetch tweets based on preset keywords
-- Format the data received
-Data Storage:
-- Dump it to MongoDB database
-Data Analysis:
-- Run sentiment analysis on historical data from the database
-- Run sentiment analysis on live tweets
-- Run statistical analysis on the data from the database
-Visualization:
-- Plot histogram to show top 10 countries in terms of soccer popularity
-- Generate Kernel density graph on historical data
-- Generate raw sentiment analysis graph on historical data
-- Generate twitter sentiment volume graph on historical data
-- Generate Kernel density graph on live tweets
-- Generate raw sentiment analysis graph on live tweets
-- Generate twitter sentiment volume graph on live tweets
-- Generate dynamic world map to display continent wise soccer popularity  
+- Data Acquisition:
+	- Connect to Twitter API
+	- Fetch tweets based on preset keywords
+	- Format the data received
+- Data Storage:
+	- Dump acquired data to MongoDB database
+- Data Analysis:
+	- Run sentiment analysis on historical data from the database
+	- Run sentiment analysis on live tweets
+	- Run statistical analysis on the data from the database
+- Visualization:
+	- Plot histogram to show top 10 countries in terms of soccer popularity
+	- Generate Kernel density graph on historical data
+	- Generate raw sentiment analysis graph on historical data
+	- Generate twitter sentiment volume graph on historical data
+	- Generate Kernel density graph on live tweets
+	- Generate raw sentiment analysis graph on live tweets
+	- Generate twitter sentiment volume graph on live tweets
+	- Generate dynamic world map to display continent wise soccer popularity  
 
 #### Related Links ####
 - For more information on AlchemyAPI's sentiment analysis API: http://www.alchemyapi.com/products/features/sentiment-analysis/
