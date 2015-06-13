@@ -62,14 +62,10 @@ through the: "Run Past Tweet Analysis from MongoDB" link in the web app.
 ## STEP 3: Visualize the data##
 -  **Run Analysis Live Streaming on Data(Dynamic Data)**
 	- This process is handled by:
-	```bash
-    $> alchemyapi\recipe.py
-    ```
+	```bash $> alchemyapi\recipe.py```
 	This takes care of the dynamic sentiment analysis on the data coming from twitter data streaming through twitter api called 'tweepy'.
 	'R'Framework\ggplot library-This takes care of the graphs generated on the data generated from recipe.py. To do this, simply invoke the included R script as follows:
-        ```bash
-        R < plot.R --vanilla
-        ```
+        ```bash R < plot.R --vanilla ```
         
         
 	- 3 types of graphs are generated. 
@@ -94,8 +90,7 @@ python delete.py
 
 - **Top 10 countries with Mean:**
     - This process is handled by:
-```bash
-    $> new_Country_Count.py``` - This script will plot the bar graph. We are showing the tweets of top 10 countries where soccer is most popular compared to the rest of the world.
+```bash $> new_Country_Count.py``` - This script will plot the bar graph. We are showing the tweets of top 10 countries where soccer is most popular compared to the rest of the world.
 For calculating this we have taken help of in built python functions like map as well as utilized external libraries like pandas and matplotlib for plotting the graph.
 We are collecting the count of tweets country wise and after getting the count we are calculating the mean of tweets and we also have plotted the mean on the graph.
 
@@ -108,12 +103,10 @@ It will show the mean, median, standard deviation and the mode values of tweets.
 
 - **Worldmap Dashboard:**
 	- This process is handled by:
-```bash
-    $> dashboard.py``` - This script will take country wise count of tweets  and after mapping country code to their respective continents code it will finally count continents wise total number of tweets.
+```bash $> dashboard.py``` - This script will take country wise count of tweets  and after mapping country code to their respective continents code it will finally count continents wise total number of tweets.
 At last it will store data in a json file jsonData.json.
 new-dashboard.html - Html file is used to show dashboard.
-```bash
-    $> ReplaceWords.py``` 
+```bash $> ReplaceWords.py``` 
  
 
 	- This script will use data from jsonData.json file and update new-dashboard.html file and generate updated_dashboard.html.
