@@ -43,7 +43,7 @@ Welcome to the Soccer Data Analysis recipe!
 - An installation of MongoDB -- http://www.mongodb.org/downloads
 - An installation of R, and the "ggplot2" package -- see e.g., http://cran.cnr.berkeley.edu/ and http://www.r-bloggers.com/installing-r-packages/
 - Python pymongo for MongoDB connections
-- Python tweepy to connect to tweeter API
+- Python tweepy to connect to tweeter API. Download tweepy from github(https://github.com/tweepy/tweepy) and run C:\Data_Sector\CSULA\Grad-Proj\tweepy-master>python setup.py install 
 - FusionCharts for creating the world map
 - php for setting up the web app
 - Xampp for setting up the web server
